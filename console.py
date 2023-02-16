@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" console """
+""" The console """
 
 import cmd
 from datetime import datetime
