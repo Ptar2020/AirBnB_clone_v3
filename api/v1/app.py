@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """
 Sets up Flask application
-
 """
 
 
